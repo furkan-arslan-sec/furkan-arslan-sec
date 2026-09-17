@@ -12,13 +12,7 @@ Offensive security. Web, mobile, and network — occasionally more.
 
 #### About
 
-I work as a penetration tester, testing web, mobile, and network environments for security weaknesses. Outside of client engagements I do independent vulnerability research on self-hosted and open-source software, reporting what I find directly to maintainers.
-
-```
-role    : penetration tester / security researcher
-focus   : web · mobile · network
-status  : actively researching
-```
+I work as a security consultant, testing web, mobile, and network environments for security weaknesses. In my free time, I look for security vulnerabilities and report them directly to maintainers.
 
 ---
 
