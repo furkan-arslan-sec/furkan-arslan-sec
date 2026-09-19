@@ -35,6 +35,9 @@ I work as a security consultant, testing web, mobile, and network environments f
 | [open-nvr](https://github.com/open-nvr/open-nvr/pull/398) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [picpeak](https://github.com/PicPeak/picpeak/security/advisories/GHSA-9h7q-2jpf-vj85) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [distr](https://github.com/distr-sh/distr/security/advisories/GHSA-82q6-p4x6-j844) | CWE-863 · Incorrect Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
+| [K7](https://github.com/kaybi-gh/K7/security/advisories/GHSA-gjgx-c452-93cj) | CWE-863 · Incorrect Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
+| [SlowBooks-Pro-2026](https://github.com/VonHoltenCodes/SlowBooks-Pro-2026/security/advisories/GHSA-rm5h-555g-vpjj) | CWE-362 · Race Condition | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
+| [kosync-dotnet](https://github.com/jberlyn/kosync-dotnet/security/advisories/GHSA-pfqh-pjpr-4gcm) | CWE-284 · Improper Access Control | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [netclaw](https://github.com/netclaw-dev/netclaw/pull/2143) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [duplicati](https://github.com/duplicati/duplicati/pull/7304) | CWE-200 · Information Exposure | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [InstagramToMealie](https://github.com/JoTec2002/InstagramToMealie/pull/75) | CWE-918 · SSRF / LFI | ![pending](https://img.shields.io/badge/pending-dfb317) |
