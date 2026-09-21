@@ -40,4 +40,5 @@ I work as a security consultant, testing web, mobile, and network environments f
 | [kosync-dotnet](https://github.com/jberlyn/kosync-dotnet/security/advisories/GHSA-pfqh-pjpr-4gcm) | CWE-284 · Improper Access Control | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [netclaw](https://github.com/netclaw-dev/netclaw/pull/2143) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [duplicati](https://github.com/duplicati/duplicati/pull/7304) | CWE-200 · Information Exposure | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
+| [librarr](https://github.com/JeremiahM37/librarr/security/advisories/GHSA-368r-6vrp-m3pw) | CWE-306 · Missing Authentication | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [InstagramToMealie](https://github.com/JoTec2002/InstagramToMealie/pull/75) | CWE-918 · SSRF / LFI | ![pending](https://img.shields.io/badge/pending-dfb317) |
