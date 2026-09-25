@@ -43,4 +43,5 @@ I work as a security consultant, testing web, mobile, and network environments f
 | [librarr](https://github.com/JeremiahM37/librarr/security/advisories/GHSA-368r-6vrp-m3pw) | CWE-306 · Missing Authentication | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [quickdrop](https://github.com/RoastSlav/quickdrop/security/advisories/GHSA-x5fx-8vq4-q2j5) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [quickdrop](https://github.com/RoastSlav/quickdrop/security/advisories/GHSA-jmp6-gfhm-xxvm) | CWE-942 · Permissive CORS Policy | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
+| [containarium](https://github.com/footprintai/containarium/security/advisories/GHSA-vmxr-r78x-mprm) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [InstagramToMealie](https://github.com/JoTec2002/InstagramToMealie/pull/75) | CWE-918 · SSRF / LFI | ![pending](https://img.shields.io/badge/pending-dfb317) |
