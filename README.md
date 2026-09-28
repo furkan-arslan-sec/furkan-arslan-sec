@@ -45,4 +45,5 @@ I work as a security consultant, testing web, mobile, and network environments f
 | [quickdrop](https://github.com/RoastSlav/quickdrop/security/advisories/GHSA-jmp6-gfhm-xxvm) | CWE-942 · Permissive CORS Policy | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [containarium](https://github.com/footprintai/containarium/security/advisories/GHSA-vmxr-r78x-mprm) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [stormkit](https://github.com/stormkit-io/stormkit-io/security/advisories/GHSA-pv6p-wfvx-gcqx) | CWE-306 · Missing Authentication | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
+| [borg-ui](https://github.com/karanhudia/borg-ui/security/advisories/GHSA-q3w9-h887-65rc) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [InstagramToMealie](https://github.com/JoTec2002/InstagramToMealie/pull/75) | CWE-918 · SSRF / LFI | ![pending](https://img.shields.io/badge/pending-dfb317) |
