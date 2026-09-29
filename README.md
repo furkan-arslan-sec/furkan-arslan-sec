@@ -46,4 +46,6 @@ I work as a security consultant, testing web, mobile, and network environments f
 | [containarium](https://github.com/footprintai/containarium/security/advisories/GHSA-vmxr-r78x-mprm) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [stormkit](https://github.com/stormkit-io/stormkit-io/security/advisories/GHSA-pv6p-wfvx-gcqx) | CWE-306 · Missing Authentication | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [borg-ui](https://github.com/karanhudia/borg-ui/security/advisories/GHSA-q3w9-h887-65rc) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
+| [stormkit](https://github.com/stormkit-io/stormkit-io/security/advisories/GHSA-jm56-phmm-663q) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
+| [OCO-Server](https://github.com/schorschii/OCO-Server/security/advisories/GHSA-34mv-3gjp-gf53) | CWE-862 · Missing Authorization | ![fixed](https://img.shields.io/badge/fixed-brightgreen) |
 | [InstagramToMealie](https://github.com/JoTec2002/InstagramToMealie/pull/75) | CWE-918 · SSRF / LFI | ![pending](https://img.shields.io/badge/pending-dfb317) |
